@@ -1,0 +1,9 @@
+# Do not check in build products.
+build
+build.zip
+
+# Do not check in vendored dependencies.
+node_modules
+
+# Do not check in user configuration.
+preferences.js
